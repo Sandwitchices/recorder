@@ -1,0 +1,5 @@
+{
+  "name": "Philippine Earthquake API Backend",
+  "description": "A FastAPI backend that provides recent earthquake data for the Philippines, sourced from the USGS API. This server is intended to be used by a client application like a Flutter app.",
+  "requestFramePermissions": []
+}
